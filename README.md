@@ -9,7 +9,7 @@ A **RESTful API** built with **Spring Boot** to manage personal expenses efficie
 - Built with **Spring Boot**, **JPA/Hibernate**, and **H2 in-memory database**
 
 ## Technologies
-- Java 17
+- Java 24
 - Spring Boot 3.x
 - JPA/Hibernate
 - H2 Database
@@ -24,3 +24,7 @@ A **RESTful API** built with **Spring Boot** to manage personal expenses efficie
 1. Clone the repository:  
    ```bash
    git clone https://github.com/adeeb-1890/Expense-Tracker-Api.git
+
+2. Open in your IDE and run ExpenseTrackerApplication.java
+3. Access H2 console at http://localhost:8080/h2-console (JDBC URL: jdbc:h2:mem:testdb)
+
